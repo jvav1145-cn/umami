@@ -1,7 +1,7 @@
 {
-    "name": "fuwari",
-    "compatibility_date": "2025-08-11",
+    "name": "umami",
+    "compatibility_date": "2025-09-19",
     "assets": {
-      "directory": "./dist"
+      "directory": "./next"
     }
   }
